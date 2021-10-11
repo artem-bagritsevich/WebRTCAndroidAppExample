@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WebRTCAndroidExample</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="session_offline">Offline</string>
+    <string name="session_impossible">Second peer is missing</string>
+    <string name="session_ready">Ready to start session</string>
+    <string name="session_creating">Creating session</string>
+    <string name="session_active">Session Active</string>
+
+    <string name="button_start_session">Start session</string>
+    <string name="button_join_session">Join session</string>
+
+    <string name="button_end_session">End Session</string>
+</resources>
