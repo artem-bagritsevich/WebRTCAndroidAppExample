@@ -1,7 +1,7 @@
 **This repo is part of WebRTC examples, see also:**
 
-WebRTC Signaling server in Ktor - https://github.com/artem-bagritsevich/WebRTCKtorSignalingServerExample
-How to build WebRTC for Android - https://github.com/artem-bagritsevich/AndroidWebRTC
+- WebRTC Signaling server in Ktor - https://github.com/artem-bagritsevich/WebRTCKtorSignalingServerExample
+- How to build WebRTC for Android - https://github.com/artem-bagritsevich/AndroidWebRTC
 
 Here is example of P2P Video client with WebRTC under the hood. 
 **This is just example created in educational purpose, so don't use this code in production!**
