@@ -6,7 +6,7 @@
 Here is example of P2P Video client with WebRTC under the hood. 
 **This is just example created in educational purpose, so don't use this code in production!**
 
-How to run use the app:
+How to use the app:
 
 - First of all app you will need to run Signaling server (https://github.com/artem-bagritsevich/WebRTCKtorSignalingServerExample)
 
